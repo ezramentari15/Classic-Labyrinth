@@ -349,6 +349,7 @@
 "Assets/MainMenuButton.cs"
 "Assets/NextLevelButton.cs"
 "Assets/Obstacle.cs"
+"Assets/OrientationTest.cs"
 "Assets/Speeder.cs"
 "Assets/TouchTest.cs"
 -langversion:9.0
